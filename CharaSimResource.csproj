@@ -21,6 +21,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -29,6 +30,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
     <DebugSymbols>true</DebugSymbols>
@@ -1577,6 +1579,26 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\UIWindow2.img.MiniMap.MaxMapMirror.w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ToolTip.Equip.Dot.0.png" />
+    <None Include="Resources\ToolTip.Equip.Dot.1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIToolTip.img.Item.Equip.Can.%28.png" />
+    <None Include="Resources\UIToolTip.img.Item.Equip.Can.%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIToolTip.img.Item.Equip.Cannot.%28.png" />
+    <None Include="Resources\UIToolTip.img.Item.Equip.Cannot.%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIToolTip.img.Item.Equip.Disabled.%28.png" />
+    <None Include="Resources\UIToolTip.img.Item.Equip.Disabled.%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIToolTip.img.Item.Equip.YellowNumber.%28.png" />
+    <None Include="Resources\UIToolTip.img.Item.Equip.YellowNumber.%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
