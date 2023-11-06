@@ -4837,13 +4837,63 @@ namespace CharaSimResource {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_cover {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Skill_Frame_cover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_dotline_c {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Skill_Frame_dotline_c", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_dotline_e {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Skill_Frame_dotline_e", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_dotline_w {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Skill_Frame_dotline_w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_iconBackgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Skill_Frame_iconBackgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_c {
             get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMap_c", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
@@ -5037,6 +5087,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_Skill_skillTypeIcon_origin {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_Skill_skillTypeIcon_origin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap VScr9_disabled_base {
             get {
                 object obj = ResourceManager.GetObject("VScr9_disabled_base", resourceCulture);
@@ -5083,7 +5143,7 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
@@ -5093,7 +5153,7 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
@@ -5103,7 +5163,7 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
@@ -5113,7 +5173,7 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
@@ -5123,7 +5183,7 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
@@ -5133,7 +5193,7 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
@@ -5143,7 +5203,7 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
@@ -5153,7 +5213,7 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
