@@ -4197,6 +4197,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_expand2 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip.img.Item.Equip.Job.expand2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_normal {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Job_normal", resourceCulture);
@@ -4983,7 +4993,7 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
@@ -4993,7 +5003,7 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
