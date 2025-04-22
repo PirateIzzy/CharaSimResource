@@ -3133,6 +3133,26 @@ namespace CharaSimResource {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap ToolTip_Equip_Dot_0 {
+            get {
+                object obj = ResourceManager.GetObject("ToolTip_Equip_Dot_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ToolTip_Equip_Dot_1 {
+            get {
+                object obj = ResourceManager.GetObject("ToolTip_Equip_Dot_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthDisabled_itemEXP {
             get {
                 object obj = ResourceManager.GetObject("ToolTip_Equip_GrowthDisabled_itemEXP", resourceCulture);
