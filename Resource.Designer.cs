@@ -2259,7 +2259,139 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_arrowup
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_arrowup", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_cluster
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_cluster", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_enchantportal
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_enchantportal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_eventnpc
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_eventnpc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_hiddenportal
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_hiddenportal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_mob_1
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_mob_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_npc
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_npc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_portal
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_portal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_shop
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_shop", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_transport
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_transport", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_trunk
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_trunk", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
