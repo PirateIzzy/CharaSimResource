@@ -3931,7 +3931,270 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete_bottom
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete" +
+                        "_bottom", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete_pattern
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete" +
+                        "_pattern", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete_top
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete" +
+                        "_top", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_epic
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficul" +
+                        "tyIcon_epic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_legendary
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficul" +
+                        "tyIcon_legendary", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_normal
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficul" +
+                        "tyIcon_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_rare
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficul" +
+                        "tyIcon_rare", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_unique
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficul" +
+                        "tyIcon_unique", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_incomplete_bottom
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_incomp" +
+                        "lete_bottom", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_mission_complete
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_missio" +
+                        "n_complete", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_mission_incomplete
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_missio" +
+                        "n_incomplete", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_0
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_numbers_scoreSmall_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_1
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_numbers_scoreSmall_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_2
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_numbers_scoreSmall_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_3
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_numbers_scoreSmall_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_4
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_numbers_scoreSmall_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_5
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_numbers_scoreSmall_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_6
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_numbers_scoreSmall_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_7
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_numbers_scoreSmall_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_8
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_numbers_scoreSmall_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_9
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIAchievement_img_numbers_scoreSmall_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
@@ -6520,6 +6783,54 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_w {
             get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_Quest_quest_info_summary_icon_basic
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIWindow2_img_Quest_quest_info_summary_icon_basic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_Quest_quest_info_summary_icon_prob
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIWindow2_img_Quest_quest_info_summary_icon_prob", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_Quest_quest_info_summary_icon_reward
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIWindow2_img_Quest_quest_info_summary_icon_reward", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_Quest_quest_info_summary_icon_select
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("UIWindow2_img_Quest_quest_info_summary_icon_select", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
