@@ -61,7 +61,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap AdditionalOptionTooltip_epic {
             get {
@@ -71,7 +71,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap AdditionalOptionTooltip_legendary {
             get {
@@ -81,7 +81,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap AdditionalOptionTooltip_rare {
             get {
@@ -91,7 +91,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap AdditionalOptionTooltip_unique {
             get {
@@ -101,7 +101,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basic_img_ItemNo__ {
             get {
@@ -111,7 +111,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basic_img_ItemNo_0 {
             get {
@@ -121,7 +121,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basic_img_ItemNo_1 {
             get {
@@ -131,7 +131,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basic_img_ItemNo_2 {
             get {
@@ -141,7 +141,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basic_img_ItemNo_3 {
             get {
@@ -151,7 +151,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basic_img_ItemNo_4 {
             get {
@@ -161,7 +161,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basic_img_ItemNo_5 {
             get {
@@ -171,7 +171,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basic_img_ItemNo_6 {
             get {
@@ -181,7 +181,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basic_img_ItemNo_7 {
             get {
@@ -191,7 +191,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basic_img_ItemNo_8 {
             get {
@@ -201,7 +201,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basic_img_ItemNo_9 {
             get {
@@ -211,7 +211,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap BtClose3_disabled_0 {
             get {
@@ -221,7 +221,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap BtClose3_mouseOver_0 {
             get {
@@ -231,7 +231,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap BtClose3_normal_0 {
             get {
@@ -241,7 +241,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap BtClose3_pressed_0 {
             get {
@@ -251,7 +251,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashItem_0 {
             get {
@@ -261,7 +261,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_0 {
             get {
@@ -271,7 +271,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_1 {
             get {
@@ -281,7 +281,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_10 {
             get {
@@ -291,7 +291,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_100 {
             get {
@@ -301,7 +301,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_11 {
             get {
@@ -311,7 +311,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_12 {
             get {
@@ -321,7 +321,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_13 {
             get {
@@ -331,7 +331,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_14 {
             get {
@@ -341,7 +341,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_15 {
             get {
@@ -351,7 +351,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_2 {
             get {
@@ -361,7 +361,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_3 {
             get {
@@ -371,7 +371,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_4 {
             get {
@@ -381,7 +381,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_5 {
             get {
@@ -391,7 +391,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_6 {
             get {
@@ -401,7 +401,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_7 {
             get {
@@ -411,7 +411,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_8 {
             get {
@@ -421,7 +421,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_9 {
             get {
@@ -431,7 +431,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_0 {
             get {
@@ -441,7 +441,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_1 {
             get {
@@ -451,7 +451,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_2 {
             get {
@@ -461,7 +461,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_3 {
             get {
@@ -471,7 +471,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_4 {
             get {
@@ -481,7 +481,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_5 {
             get {
@@ -491,7 +491,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_6 {
             get {
@@ -501,7 +501,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_7 {
             get {
@@ -511,7 +511,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_8 {
             get {
@@ -521,7 +521,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_9 {
             get {
@@ -531,7 +531,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_arrow {
             get {
@@ -541,7 +541,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_backgrnd {
             get {
@@ -551,7 +551,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_bonus {
             get {
@@ -561,7 +561,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_e {
             get {
@@ -571,7 +571,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_Line {
             get {
@@ -581,7 +581,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_total {
             get {
@@ -591,7 +591,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap CSDiscount_w {
             get {
@@ -601,7 +601,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_Android_backgrnd {
             get {
@@ -611,7 +611,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_Android_backgrnd2 {
             get {
@@ -621,7 +621,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_Android_backgrnd3 {
             get {
@@ -631,7 +631,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_backgrnd {
             get {
@@ -641,7 +641,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_backgrnd2 {
             get {
@@ -651,7 +651,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_backgrnd3 {
             get {
@@ -661,7 +661,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtAndroid_disabled_0 {
             get {
@@ -671,7 +671,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtAndroid_mouseOver_0 {
             get {
@@ -681,7 +681,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtAndroid_normal_0 {
             get {
@@ -691,7 +691,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtAndroid_pressed_0 {
             get {
@@ -701,7 +701,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtDragon_disabled_0 {
             get {
@@ -711,7 +711,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtDragon_mouseOver_0 {
             get {
@@ -721,7 +721,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtDragon_normal_0 {
             get {
@@ -731,7 +731,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtDragon_pressed_0 {
             get {
@@ -741,7 +741,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtMechanic_disabled_0 {
             get {
@@ -751,7 +751,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtMechanic_mouseOver_0 {
             get {
@@ -761,7 +761,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtMechanic_normal_0 {
             get {
@@ -771,7 +771,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtMechanic_pressed_0 {
             get {
@@ -781,7 +781,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtPet_disabled_0 {
             get {
@@ -791,7 +791,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtPet_mouseOver_0 {
             get {
@@ -801,7 +801,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtPet_normal_0 {
             get {
@@ -811,7 +811,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_BtPet_pressed_0 {
             get {
@@ -821,7 +821,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_cashPendant {
             get {
@@ -831,7 +831,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_charmPocket {
             get {
@@ -841,7 +841,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_disabled {
             get {
@@ -851,7 +851,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_character_magicArrow {
             get {
@@ -861,7 +861,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_dragon_backgrnd {
             get {
@@ -871,7 +871,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_dragon_backgrnd2 {
             get {
@@ -881,7 +881,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_dragon_backgrnd3 {
             get {
@@ -891,7 +891,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_mechanic_backgrnd {
             get {
@@ -901,7 +901,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_mechanic_backgrnd2 {
             get {
@@ -911,7 +911,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_mechanic_backgrnd3 {
             get {
@@ -921,7 +921,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_pet_backgrnd {
             get {
@@ -931,7 +931,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_pet_backgrnd2 {
             get {
@@ -941,7 +941,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_pet_backgrnd3 {
             get {
@@ -951,7 +951,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Equip_totem_backgrnd {
             get {
@@ -961,7 +961,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_att {
             get {
@@ -971,7 +971,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Dark {
             get {
@@ -981,7 +981,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Fire {
             get {
@@ -991,7 +991,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Holy {
             get {
@@ -1001,7 +1001,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Ice {
             get {
@@ -1011,7 +1011,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Lighting {
             get {
@@ -1021,7 +1021,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Poison {
             get {
@@ -1031,7 +1031,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_base {
             get {
@@ -1041,7 +1041,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_backgrnd {
             get {
@@ -1051,7 +1051,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_backgrnd2 {
             get {
@@ -1061,7 +1061,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_backgrnd3 {
             get {
@@ -1071,7 +1071,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_bt_Addtional_normal_0 {
             get {
@@ -1081,7 +1081,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_def {
             get {
@@ -1091,7 +1091,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradegauge_info_base {
             get {
@@ -1101,7 +1101,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradejewel_info_common_1 {
             get {
@@ -1111,7 +1111,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradejewel_info_epic_1 {
             get {
@@ -1121,7 +1121,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradejewel_info_rare_1 {
             get {
@@ -1131,7 +1131,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradejewel_info_regendary_1 {
             get {
@@ -1141,7 +1141,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradejewel_info_unique_1 {
             get {
@@ -1151,7 +1151,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradename__0 {
             get {
@@ -1161,7 +1161,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradename__1 {
             get {
@@ -1171,7 +1171,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradename__2 {
             get {
@@ -1181,7 +1181,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradename__3 {
             get {
@@ -1191,7 +1191,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradename__4 {
             get {
@@ -1201,7 +1201,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradeside_backgrnd {
             get {
@@ -1211,7 +1211,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradeside_graderank__0 {
             get {
@@ -1221,7 +1221,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradeside_graderank__1 {
             get {
@@ -1231,7 +1231,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradeside_graderank__2 {
             get {
@@ -1241,7 +1241,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradeside_graderank__3 {
             get {
@@ -1251,7 +1251,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_gradeside_graderank__4 {
             get {
@@ -1261,7 +1261,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Beast {
             get {
@@ -1271,7 +1271,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Devil {
             get {
@@ -1281,7 +1281,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Fish {
             get {
@@ -1291,7 +1291,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Human {
             get {
@@ -1301,7 +1301,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Machine {
             get {
@@ -1311,7 +1311,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Nymph {
             get {
@@ -1321,7 +1321,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Plant {
             get {
@@ -1331,7 +1331,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Reptile {
             get {
@@ -1341,7 +1341,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Undead {
             get {
@@ -1351,7 +1351,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_level_gauge_exp_backgrnd {
             get {
@@ -1361,7 +1361,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_level_Lv_ {
             get {
@@ -1371,7 +1371,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_level_lv_base {
             get {
@@ -1381,7 +1381,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Dark {
             get {
@@ -1391,7 +1391,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Fire {
             get {
@@ -1401,7 +1401,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Holy {
             get {
@@ -1411,7 +1411,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Ice {
             get {
@@ -1421,7 +1421,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Lighting {
             get {
@@ -1431,7 +1431,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Poison {
             get {
@@ -1441,7 +1441,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_base {
             get {
@@ -1451,7 +1451,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_back {
             get {
@@ -1461,7 +1461,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_back_familiar {
             get {
@@ -1471,7 +1471,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_back_spec {
             get {
@@ -1481,7 +1481,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_button_Potential_normal_0 {
             get {
@@ -1491,7 +1491,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeJewel_info_common {
             get {
@@ -1501,7 +1501,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeJewel_info_epic {
             get {
@@ -1511,7 +1511,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeJewel_info_legendary {
             get {
@@ -1521,7 +1521,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeJewel_info_rare {
             get {
@@ -1531,7 +1531,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeJewel_info_unique {
             get {
@@ -1541,7 +1541,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeName__0 {
             get {
@@ -1551,7 +1551,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeName__1 {
             get {
@@ -1561,7 +1561,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeName__2 {
             get {
@@ -1571,7 +1571,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeName__3 {
             get {
@@ -1581,7 +1581,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeName__4 {
             get {
@@ -1591,7 +1591,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeSide_backgrnd {
             get {
@@ -1601,7 +1601,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeSide_graderank__0 {
             get {
@@ -1611,7 +1611,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeSide_graderank__1 {
             get {
@@ -1621,7 +1621,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeSide_graderank__2 {
             get {
@@ -1631,7 +1631,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeSide_graderank__3 {
             get {
@@ -1641,7 +1641,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeSide_graderank__4 {
             get {
@@ -1651,7 +1651,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Beast {
             get {
@@ -1661,7 +1661,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Devil {
             get {
@@ -1671,7 +1671,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Fish {
             get {
@@ -1681,7 +1681,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Human {
             get {
@@ -1691,7 +1691,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Machine {
             get {
@@ -1701,7 +1701,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Nymph {
             get {
@@ -1711,7 +1711,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Plant {
             get {
@@ -1721,7 +1721,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Reptile {
             get {
@@ -1731,7 +1731,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Undead {
             get {
@@ -1741,7 +1741,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_backgrnd {
             get {
@@ -1751,7 +1751,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_backgrnd2 {
             get {
@@ -1761,7 +1761,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_backgrnd3 {
             get {
@@ -1771,7 +1771,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_BtReduce_disabled_0 {
             get {
@@ -1781,7 +1781,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_BtReduce_mouseOver_0 {
             get {
@@ -1791,7 +1791,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_BtReduce_normal_0 {
             get {
@@ -1801,7 +1801,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_BtReduce_pressed_0 {
             get {
@@ -1811,7 +1811,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000400 {
             get {
@@ -1821,7 +1821,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000401 {
             get {
@@ -1831,7 +1831,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000402 {
             get {
@@ -1841,7 +1841,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000403 {
             get {
@@ -1851,7 +1851,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000404 {
             get {
@@ -1861,7 +1861,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000405 {
             get {
@@ -1871,7 +1871,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000406 {
             get {
@@ -1881,7 +1881,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000407 {
             get {
@@ -1891,7 +1891,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000408 {
             get {
@@ -1901,7 +1901,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000409 {
             get {
@@ -1911,7 +1911,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000410 {
             get {
@@ -1921,7 +1921,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000412 {
             get {
@@ -1931,7 +1931,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000413 {
             get {
@@ -1941,7 +1941,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000414 {
             get {
@@ -1951,7 +1951,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000415 {
             get {
@@ -1961,7 +1961,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000416 {
             get {
@@ -1971,7 +1971,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000417 {
             get {
@@ -1981,7 +1981,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000418 {
             get {
@@ -1991,7 +1991,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000419 {
             get {
@@ -2001,7 +2001,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000420 {
             get {
@@ -2011,7 +2011,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_statList_80000421 {
             get {
@@ -2021,7 +2021,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap IconBase_0 {
             get {
@@ -2031,7 +2031,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_backgrnd {
             get {
@@ -2041,7 +2041,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_backgrnd2 {
             get {
@@ -2051,7 +2051,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_backgrnd3 {
             get {
@@ -2061,7 +2061,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtAppraise3_disabled_0 {
             get {
@@ -2071,7 +2071,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtAppraise3_mouseOver_0 {
             get {
@@ -2081,7 +2081,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtAppraise3_normal_0 {
             get {
@@ -2091,7 +2091,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtAppraise3_pressed_0 {
             get {
@@ -2101,7 +2101,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtAppraise4_disabled_0 {
             get {
@@ -2111,7 +2111,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtAppraise4_mouseOver_0 {
             get {
@@ -2121,7 +2121,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtAppraise4_normal_0 {
             get {
@@ -2131,7 +2131,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtAppraise4_pressed_0 {
             get {
@@ -2141,7 +2141,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtBits3_disabled_0 {
             get {
@@ -2151,7 +2151,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtBits3_mouseOver_0 {
             get {
@@ -2161,7 +2161,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtBits3_normal_0 {
             get {
@@ -2171,7 +2171,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtBits3_pressed_0 {
             get {
@@ -2181,7 +2181,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtBits4_disabled_0 {
             get {
@@ -2191,7 +2191,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtBits4_mouseOver_0 {
             get {
@@ -2201,7 +2201,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtBits4_normal_0 {
             get {
@@ -2211,7 +2211,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtBits4_pressed_0 {
             get {
@@ -2221,7 +2221,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCashshop_disabled_0 {
             get {
@@ -2231,7 +2231,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCashshop_mouseOver_0 {
             get {
@@ -2241,7 +2241,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCashshop_normal_0 {
             get {
@@ -2251,7 +2251,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCashshop_pressed_0 {
             get {
@@ -2261,7 +2261,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCoin3_disabled_0 {
             get {
@@ -2271,7 +2271,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCoin3_mouseOver_0 {
             get {
@@ -2281,7 +2281,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCoin3_normal_0 {
             get {
@@ -2291,7 +2291,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCoin3_pressed_0 {
             get {
@@ -2301,7 +2301,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCoin4_disabled_0 {
             get {
@@ -2311,7 +2311,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCoin4_mouseOver_0 {
             get {
@@ -2321,7 +2321,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCoin4_normal_0 {
             get {
@@ -2331,7 +2331,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtCoin4_pressed_0 {
             get {
@@ -2341,7 +2341,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtDisassemble3_disabled_0 {
             get {
@@ -2351,7 +2351,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtDisassemble3_mouseOver_0 {
             get {
@@ -2361,7 +2361,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtDisassemble3_normal_0 {
             get {
@@ -2371,7 +2371,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtDisassemble3_pressed_0 {
             get {
@@ -2381,7 +2381,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtDisassemble4_disabled_0 {
             get {
@@ -2391,7 +2391,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtDisassemble4_mouseOver_0 {
             get {
@@ -2401,7 +2401,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtDisassemble4_normal_0 {
             get {
@@ -2411,7 +2411,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtDisassemble4_pressed_0 {
             get {
@@ -2421,7 +2421,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtExtract3_disabled_0 {
             get {
@@ -2431,7 +2431,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtExtract3_mouseOver_0 {
             get {
@@ -2441,7 +2441,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtExtract3_normal_0 {
             get {
@@ -2451,7 +2451,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtExtract3_pressed_0 {
             get {
@@ -2461,7 +2461,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtExtract4_disabled_0 {
             get {
@@ -2471,7 +2471,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtExtract4_mouseOver_0 {
             get {
@@ -2481,7 +2481,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtExtract4_normal_0 {
             get {
@@ -2491,7 +2491,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtExtract4_pressed_0 {
             get {
@@ -2501,7 +2501,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtFull_disabled_0 {
             get {
@@ -2511,7 +2511,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtFull_mouseOver_0 {
             get {
@@ -2521,7 +2521,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtFull_normal_0 {
             get {
@@ -2531,7 +2531,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtFull_pressed_0 {
             get {
@@ -2541,7 +2541,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtGather_disabled_0 {
             get {
@@ -2551,7 +2551,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtGather_mouseOver_0 {
             get {
@@ -2561,7 +2561,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtGather_normal_0 {
             get {
@@ -2571,7 +2571,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtGather_pressed_0 {
             get {
@@ -2581,7 +2581,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPoint_disabled_0 {
             get {
@@ -2591,7 +2591,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPoint_mouseOver_0 {
             get {
@@ -2601,7 +2601,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPoint_normal_0 {
             get {
@@ -2611,7 +2611,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPoint_pressed_0 {
             get {
@@ -2621,7 +2621,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPot3_disabled_0 {
             get {
@@ -2631,7 +2631,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPot3_mouseOver_0 {
             get {
@@ -2641,7 +2641,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPot3_normal_0 {
             get {
@@ -2651,7 +2651,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPot3_pressed_0 {
             get {
@@ -2661,7 +2661,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPot4_disabled_0 {
             get {
@@ -2671,7 +2671,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPot4_mouseOver_0 {
             get {
@@ -2681,7 +2681,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPot4_normal_0 {
             get {
@@ -2691,7 +2691,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtPot4_pressed_0 {
             get {
@@ -2701,7 +2701,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtSmall_disabled_0 {
             get {
@@ -2711,7 +2711,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtSmall_mouseOver_0 {
             get {
@@ -2721,7 +2721,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtSmall_normal_0 {
             get {
@@ -2731,7 +2731,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtSmall_pressed_0 {
             get {
@@ -2741,7 +2741,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtSort_disabled_0 {
             get {
@@ -2751,7 +2751,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtSort_mouseOver_0 {
             get {
@@ -2761,7 +2761,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtSort_normal_0 {
             get {
@@ -2771,7 +2771,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtSort_pressed_0 {
             get {
@@ -2781,7 +2781,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtToad3_disabled_0 {
             get {
@@ -2791,7 +2791,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtToad3_mouseOver_0 {
             get {
@@ -2801,7 +2801,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtToad3_normal_0 {
             get {
@@ -2811,7 +2811,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtToad3_pressed_0 {
             get {
@@ -2821,7 +2821,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtToad4_disabled_0 {
             get {
@@ -2831,7 +2831,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtToad4_mouseOver_0 {
             get {
@@ -2841,7 +2841,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtToad4_normal_0 {
             get {
@@ -2851,7 +2851,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtToad4_pressed_0 {
             get {
@@ -2861,7 +2861,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtUpgrade3_disabled_0 {
             get {
@@ -2871,7 +2871,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtUpgrade3_mouseOver_0 {
             get {
@@ -2881,7 +2881,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtUpgrade3_normal_0 {
             get {
@@ -2891,7 +2891,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtUpgrade3_pressed_0 {
             get {
@@ -2901,7 +2901,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtUpgrade4_disabled_0 {
             get {
@@ -2911,7 +2911,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtUpgrade4_mouseOver_0 {
             get {
@@ -2921,7 +2921,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtUpgrade4_normal_0 {
             get {
@@ -2931,7 +2931,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_BtUpgrade4_pressed_0 {
             get {
@@ -2941,7 +2941,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_FullBackgrnd {
             get {
@@ -2951,7 +2951,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_FullBackgrnd2 {
             get {
@@ -2961,7 +2961,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_FullBackgrnd3 {
             get {
@@ -2971,7 +2971,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_monsterCollection_0 {
             get {
@@ -2981,7 +2981,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Quality_0_0 {
             get {
@@ -2991,7 +2991,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Quality_1_0 {
             get {
@@ -3001,7 +3001,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Quality_2_0 {
             get {
@@ -3011,7 +3011,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Quality_3_0 {
             get {
@@ -3021,7 +3021,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Quality_4_0 {
             get {
@@ -3031,7 +3031,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Quality_5_0 {
             get {
@@ -3041,7 +3041,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_shadow {
             get {
@@ -3051,7 +3051,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Tab_disabled_0 {
             get {
@@ -3061,7 +3061,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Tab_disabled_1 {
             get {
@@ -3071,7 +3071,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Tab_disabled_2 {
             get {
@@ -3081,7 +3081,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Tab_disabled_3 {
             get {
@@ -3091,7 +3091,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Tab_disabled_4 {
             get {
@@ -3101,7 +3101,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Tab_enabled_0 {
             get {
@@ -3111,7 +3111,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Tab_enabled_1 {
             get {
@@ -3121,7 +3121,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Tab_enabled_2 {
             get {
@@ -3131,7 +3131,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Tab_enabled_3 {
             get {
@@ -3141,7 +3141,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_Tab_enabled_4 {
             get {
@@ -3151,7 +3151,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Item_timeLimit_0 {
             get {
@@ -3161,7 +3161,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ItemProtector_Icon_0 {
             get {
@@ -3171,7 +3171,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_arrowup {
             get {
@@ -3181,7 +3181,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_cluster {
             get {
@@ -3191,7 +3191,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_enchantportal {
             get {
@@ -3201,7 +3201,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_eventnpc {
             get {
@@ -3211,7 +3211,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_hiddenportal {
             get {
@@ -3221,7 +3221,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_mob_1 {
             get {
@@ -3231,7 +3231,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_npc {
             get {
@@ -3241,7 +3241,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_portal {
             get {
@@ -3251,7 +3251,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_shop {
             get {
@@ -3261,7 +3261,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_transport {
             get {
@@ -3271,7 +3271,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_trunk {
             get {
@@ -3281,7 +3281,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Quest_img_Main_questInfo_backgrnd_custom_bottom {
             get {
@@ -3291,7 +3291,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Quest_img_Main_questInfo_backgrnd_custom_center {
             get {
@@ -3301,7 +3301,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Quest_img_Main_questInfo_backgrnd_custom_top {
             get {
@@ -3311,7 +3311,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_box_layer_boxL {
             get {
@@ -3321,7 +3321,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_box_layer_boxS {
             get {
@@ -3331,7 +3331,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_canvas_detail {
             get {
@@ -3341,7 +3341,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_canvas_target {
             get {
@@ -3351,7 +3351,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_reward_icon_exp {
             get {
@@ -3361,7 +3361,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_reward_icon_meso {
             get {
@@ -3371,7 +3371,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_reward_layer_reward {
             get {
@@ -3381,7 +3381,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Quest_img_Main_questInfo_title_layer_npcShadow {
             get {
@@ -3391,7 +3391,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_0_0_questUI_tag {
             get {
@@ -3401,7 +3401,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_0_1_questUI_tag {
             get {
@@ -3411,7 +3411,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_0_2_questUI_tag {
             get {
@@ -3421,7 +3421,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_0_3_questUI_tag {
             get {
@@ -3431,7 +3431,17 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_0_4_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_0_4_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_1_0_questUI_tag {
             get {
@@ -3441,7 +3451,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_1_1_questUI_tag {
             get {
@@ -3451,7 +3461,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_2_0_questUI_tag {
             get {
@@ -3461,7 +3471,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_3_0_questUI_tag {
             get {
@@ -3471,7 +3481,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_3_1_questUI_tag {
             get {
@@ -3481,7 +3491,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_3_2_questUI_tag {
             get {
@@ -3491,7 +3501,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_99_0_questUI_tag {
             get {
@@ -3501,7 +3511,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap QuestCategory_img_99_1_questUI_tag {
             get {
@@ -3511,7 +3521,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_abilityTitle_normal_0 {
             get {
@@ -3521,7 +3531,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_backgrnd {
             get {
@@ -3531,7 +3541,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_backgrnd2 {
             get {
@@ -3541,7 +3551,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_backgrnd3 {
             get {
@@ -3551,7 +3561,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_backgrnd4 {
             get {
@@ -3561,7 +3571,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_BtAbility_disabled_0 {
             get {
@@ -3571,7 +3581,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_BtAbility_mouseOver_0 {
             get {
@@ -3581,7 +3591,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_BtAbility_normal_0 {
             get {
@@ -3591,7 +3601,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_BtAbility_pressed_0 {
             get {
@@ -3601,7 +3611,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_BtHpUp_disabled_0 {
             get {
@@ -3611,7 +3621,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_BtHpUp_mouseOver_0 {
             get {
@@ -3621,7 +3631,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_BtHpUp_normal_0 {
             get {
@@ -3631,7 +3641,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_BtHpUp_pressed_0 {
             get {
@@ -3641,7 +3651,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_metierLine_disabled_0 {
             get {
@@ -3651,7 +3661,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_metierLine_disabled_1 {
             get {
@@ -3661,7 +3671,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_backgrnd {
             get {
@@ -3671,7 +3681,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_backgrnd2 {
             get {
@@ -3681,7 +3691,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_backgrnd3 {
             get {
@@ -3691,7 +3701,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtAuto_disabled_0 {
             get {
@@ -3701,7 +3711,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtAuto_mouseOver_0 {
             get {
@@ -3711,7 +3721,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtAuto_normal_3 {
             get {
@@ -3721,7 +3731,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtAuto_pressed_0 {
             get {
@@ -3731,7 +3741,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtDetailClose_disabled_0 {
             get {
@@ -3741,7 +3751,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtDetailClose_mouseOver_0 {
             get {
@@ -3751,7 +3761,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtDetailClose_normal_0 {
             get {
@@ -3761,7 +3771,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtDetailClose_pressed_0 {
             get {
@@ -3771,7 +3781,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtDetailOpen_disabled_0 {
             get {
@@ -3781,7 +3791,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtDetailOpen_mouseOver_0 {
             get {
@@ -3791,7 +3801,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtDetailOpen_normal_0 {
             get {
@@ -3801,7 +3811,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtDetailOpen_pressed_0 {
             get {
@@ -3811,7 +3821,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtHyperStatClose_disabled_0 {
             get {
@@ -3821,7 +3831,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtHyperStatClose_mouseOver_0 {
             get {
@@ -3831,7 +3841,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtHyperStatClose_normal_0 {
             get {
@@ -3841,7 +3851,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtHyperStatClose_pressed_0 {
             get {
@@ -3851,7 +3861,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtHyperStatOpen_disabled_0 {
             get {
@@ -3861,7 +3871,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtHyperStatOpen_mouseOver_0 {
             get {
@@ -3871,7 +3881,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtHyperStatOpen_normal_0 {
             get {
@@ -3881,7 +3891,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtHyperStatOpen_pressed_0 {
             get {
@@ -3891,7 +3901,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtUp_disabled_0 {
             get {
@@ -3901,7 +3911,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtUp_mouseOver_0 {
             get {
@@ -3911,7 +3921,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtUp_normal_0 {
             get {
@@ -3921,7 +3931,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_BtUp_pressed_0 {
             get {
@@ -3931,7 +3941,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_Disabled_DEX {
             get {
@@ -3941,7 +3951,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_Disabled_INT {
             get {
@@ -3951,7 +3961,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_Disabled_LUK {
             get {
@@ -3961,7 +3971,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Stat_main_Disabled_STR {
             get {
@@ -3971,7 +3981,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_AlienStone_Empty {
             get {
@@ -3981,7 +3991,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_AlienStone_Epic {
             get {
@@ -3991,7 +4001,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_AlienStone_Legendary {
             get {
@@ -4001,7 +4011,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_AlienStone_Normal {
             get {
@@ -4011,7 +4021,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_AlienStone_Rare {
             get {
@@ -4021,7 +4031,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_AlienStone_Unique {
             get {
@@ -4031,7 +4041,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_0 {
             get {
@@ -4041,7 +4051,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_1 {
             get {
@@ -4051,7 +4061,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_2 {
             get {
@@ -4061,7 +4071,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_3 {
             get {
@@ -4071,7 +4081,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_4 {
             get {
@@ -4081,7 +4091,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_5 {
             get {
@@ -4091,7 +4101,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_6 {
             get {
@@ -4101,7 +4111,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_7 {
             get {
@@ -4111,7 +4121,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_8 {
             get {
@@ -4121,7 +4131,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_9 {
             get {
@@ -4131,7 +4141,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_durability {
             get {
@@ -4141,7 +4151,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_none {
             get {
@@ -4151,7 +4161,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_percent {
             get {
@@ -4161,7 +4171,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_reqDEX {
             get {
@@ -4171,7 +4181,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_reqINT {
             get {
@@ -4181,7 +4191,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_reqLEV {
             get {
@@ -4191,7 +4201,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_reqLUK {
             get {
@@ -4201,7 +4211,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_reqPOP {
             get {
@@ -4211,7 +4221,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Can_reqSTR {
             get {
@@ -4221,7 +4231,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_0 {
             get {
@@ -4231,7 +4241,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_1 {
             get {
@@ -4241,7 +4251,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_2 {
             get {
@@ -4251,7 +4261,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_3 {
             get {
@@ -4261,7 +4271,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_4 {
             get {
@@ -4271,7 +4281,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_5 {
             get {
@@ -4281,7 +4291,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_6 {
             get {
@@ -4291,7 +4301,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_7 {
             get {
@@ -4301,7 +4311,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_8 {
             get {
@@ -4311,7 +4321,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_9 {
             get {
@@ -4321,7 +4331,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_durability {
             get {
@@ -4331,7 +4341,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_none {
             get {
@@ -4341,7 +4351,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_percent {
             get {
@@ -4351,7 +4361,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_reqDEX {
             get {
@@ -4361,7 +4371,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_reqINT {
             get {
@@ -4371,7 +4381,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_reqLEV {
             get {
@@ -4381,7 +4391,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_reqLUK {
             get {
@@ -4391,7 +4401,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_reqPOP {
             get {
@@ -4401,7 +4411,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Cannot_reqSTR {
             get {
@@ -4411,7 +4421,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Dot_0 {
             get {
@@ -4421,7 +4431,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Dot_1 {
             get {
@@ -4431,7 +4441,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthDisabled_itemEXP {
             get {
@@ -4441,7 +4451,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthDisabled_itemLEV {
             get {
@@ -4451,7 +4461,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthDisabled_none {
             get {
@@ -4461,7 +4471,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_0 {
             get {
@@ -4471,7 +4481,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_1 {
             get {
@@ -4481,7 +4491,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_2 {
             get {
@@ -4491,7 +4501,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_3 {
             get {
@@ -4501,7 +4511,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_4 {
             get {
@@ -4511,7 +4521,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_5 {
             get {
@@ -4521,7 +4531,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_6 {
             get {
@@ -4531,7 +4541,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_7 {
             get {
@@ -4541,7 +4551,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_8 {
             get {
@@ -4551,7 +4561,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_9 {
             get {
@@ -4561,7 +4571,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_itemEXP {
             get {
@@ -4571,7 +4581,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_itemLEV {
             get {
@@ -4581,7 +4591,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_max {
             get {
@@ -4591,7 +4601,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_GrowthEnabled_percent {
             get {
@@ -4601,7 +4611,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Star_Star {
             get {
@@ -4611,7 +4621,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap ToolTip_Equip_Star_Star2 {
             get {
@@ -4621,7 +4631,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete_bottom {
             get {
@@ -4632,7 +4642,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete_pattern {
             get {
@@ -4643,7 +4653,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete_top {
             get {
@@ -4654,7 +4664,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_epic {
             get {
@@ -4665,7 +4675,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_legendary {
             get {
@@ -4676,7 +4686,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_normal {
             get {
@@ -4687,7 +4697,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_rare {
             get {
@@ -4698,7 +4708,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_unique {
             get {
@@ -4709,7 +4719,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_incomplete_bottom {
             get {
@@ -4720,7 +4730,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_mission_complete {
             get {
@@ -4731,7 +4741,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_mission_incomplete {
             get {
@@ -4742,7 +4752,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_0 {
             get {
@@ -4752,7 +4762,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_1 {
             get {
@@ -4762,7 +4772,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_2 {
             get {
@@ -4772,7 +4782,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_3 {
             get {
@@ -4782,7 +4792,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_4 {
             get {
@@ -4792,7 +4802,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_5 {
             get {
@@ -4802,7 +4812,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_6 {
             get {
@@ -4812,7 +4822,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_7 {
             get {
@@ -4822,7 +4832,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_8 {
             get {
@@ -4832,7 +4842,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIAchievement_img_numbers_scoreSmall_9 {
             get {
@@ -4842,7 +4852,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_familiarCard_backgrnd {
             get {
@@ -4852,7 +4862,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_familiarCard_base {
             get {
@@ -4862,7 +4872,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_familiarCard_legendary {
             get {
@@ -4872,7 +4882,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_familiarCard_name {
             get {
@@ -4882,7 +4892,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_jewel_backgrnd {
             get {
@@ -4892,7 +4902,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_jewel_epic_0 {
             get {
@@ -4902,7 +4912,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_jewel_epic_5 {
             get {
@@ -4912,7 +4922,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_jewel_legendary_0 {
             get {
@@ -4922,7 +4932,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_jewel_legendary_5 {
             get {
@@ -4932,7 +4942,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_jewel_normal_0 {
             get {
@@ -4942,7 +4952,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_jewel_normal_5 {
             get {
@@ -4952,7 +4962,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_jewel_rare_0 {
             get {
@@ -4962,7 +4972,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_jewel_rare_5 {
             get {
@@ -4972,7 +4982,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_jewel_unique_0 {
             get {
@@ -4982,7 +4992,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_jewel_unique_5 {
             get {
@@ -4992,7 +5002,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround__AppearanceArea_0 {
             get {
@@ -5002,7 +5012,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_0 {
             get {
@@ -5012,7 +5022,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_1 {
             get {
@@ -5022,7 +5032,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_2 {
             get {
@@ -5032,7 +5042,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_3 {
             get {
@@ -5042,7 +5052,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_4 {
             get {
@@ -5052,7 +5062,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_5 {
             get {
@@ -5062,7 +5072,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_6 {
             get {
@@ -5072,7 +5082,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_7 {
             get {
@@ -5082,7 +5092,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_0 {
             get {
@@ -5092,7 +5102,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_1 {
             get {
@@ -5102,7 +5112,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_2 {
             get {
@@ -5112,7 +5122,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_3 {
             get {
@@ -5122,7 +5132,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_4 {
             get {
@@ -5132,7 +5142,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_5 {
             get {
@@ -5142,7 +5152,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_6 {
             get {
@@ -5152,7 +5162,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_7 {
             get {
@@ -5162,7 +5172,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0_0 {
             get {
@@ -5172,7 +5182,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0_MontserMask {
             get {
@@ -5182,7 +5192,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_1_1 {
             get {
@@ -5192,7 +5202,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_2 {
             get {
@@ -5202,7 +5212,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_AddOption_0 {
             get {
@@ -5212,7 +5222,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_AddOption_1 {
             get {
@@ -5222,7 +5232,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_AddOption_2 {
             get {
@@ -5232,7 +5242,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_AddOption_3 {
             get {
@@ -5242,7 +5252,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_AddOption_4 {
             get {
@@ -5252,7 +5262,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_AddOption_5 {
             get {
@@ -5262,7 +5272,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_0 {
             get {
@@ -5272,7 +5282,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_1 {
             get {
@@ -5282,7 +5292,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_2 {
             get {
@@ -5292,7 +5302,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_3 {
             get {
@@ -5302,7 +5312,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_4 {
             get {
@@ -5312,7 +5322,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_5 {
             get {
@@ -5322,7 +5332,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_6 {
             get {
@@ -5332,7 +5342,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_7 {
             get {
@@ -5342,7 +5352,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_8 {
             get {
@@ -5352,7 +5362,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_9 {
             get {
@@ -5362,7 +5372,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_leftParenthesis {
             get {
@@ -5372,7 +5382,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_minus {
             get {
@@ -5382,7 +5392,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_none {
             get {
@@ -5392,7 +5402,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_percent {
             get {
@@ -5402,7 +5412,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_plus {
             get {
@@ -5412,7 +5422,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_reqDEX {
             get {
@@ -5422,7 +5432,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_reqINT {
             get {
@@ -5432,7 +5442,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_reqLEV {
             get {
@@ -5442,7 +5452,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_reqLUK {
             get {
@@ -5452,7 +5462,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_reqPOP {
             get {
@@ -5462,7 +5472,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_reqSTR {
             get {
@@ -5472,7 +5482,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_rightParenthesis {
             get {
@@ -5482,7 +5492,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_0 {
             get {
@@ -5492,7 +5502,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_1 {
             get {
@@ -5502,7 +5512,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_2 {
             get {
@@ -5512,7 +5522,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_3 {
             get {
@@ -5522,7 +5532,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_4 {
             get {
@@ -5532,7 +5542,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_5 {
             get {
@@ -5542,7 +5552,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_6 {
             get {
@@ -5552,7 +5562,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_7 {
             get {
@@ -5562,7 +5572,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_8 {
             get {
@@ -5572,7 +5582,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_9 {
             get {
@@ -5582,7 +5592,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_leftParenthesis {
             get {
@@ -5592,7 +5602,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_minus {
             get {
@@ -5602,7 +5612,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_none {
             get {
@@ -5612,7 +5622,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_percent {
             get {
@@ -5622,7 +5632,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_plus {
             get {
@@ -5632,7 +5642,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_reqDEX {
             get {
@@ -5642,7 +5652,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_reqINT {
             get {
@@ -5652,7 +5662,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_reqLEV {
             get {
@@ -5662,7 +5672,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_reqLUK {
             get {
@@ -5672,7 +5682,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_reqPOP {
             get {
@@ -5682,7 +5692,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_reqSTR {
             get {
@@ -5692,7 +5702,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_rightParenthesis {
             get {
@@ -5702,7 +5712,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_0 {
             get {
@@ -5712,7 +5722,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_1 {
             get {
@@ -5722,7 +5732,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_2 {
             get {
@@ -5732,7 +5742,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_3 {
             get {
@@ -5742,7 +5752,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_4 {
             get {
@@ -5752,7 +5762,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_5 {
             get {
@@ -5762,7 +5772,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_6 {
             get {
@@ -5772,7 +5782,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_7 {
             get {
@@ -5782,7 +5792,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_8 {
             get {
@@ -5792,7 +5802,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_9 {
             get {
@@ -5802,7 +5812,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_leftParenthesis {
             get {
@@ -5812,7 +5822,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_minus {
             get {
@@ -5822,7 +5832,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_none {
             get {
@@ -5832,7 +5842,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_percent {
             get {
@@ -5842,7 +5852,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_plus {
             get {
@@ -5852,7 +5862,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_reqDEX {
             get {
@@ -5862,7 +5872,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_reqINT {
             get {
@@ -5872,7 +5882,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_reqLEV {
             get {
@@ -5882,7 +5892,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_reqLUK {
             get {
@@ -5892,7 +5902,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_reqPOP {
             get {
@@ -5902,7 +5912,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_reqSTR {
             get {
@@ -5912,7 +5922,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_rightParenthesis {
             get {
@@ -5922,7 +5932,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_0 {
             get {
@@ -5932,7 +5942,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_0_SEA {
             get {
@@ -5942,7 +5952,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_1 {
             get {
@@ -5952,7 +5962,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_1_SEA {
             get {
@@ -5962,7 +5972,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_2 {
             get {
@@ -5972,7 +5982,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_2_SEA {
             get {
@@ -5982,7 +5992,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_3 {
             get {
@@ -5992,7 +6002,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_3_SEA {
             get {
@@ -6002,7 +6012,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_4 {
             get {
@@ -6012,7 +6022,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_4_SEA {
             get {
@@ -6022,7 +6032,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_5 {
             get {
@@ -6032,7 +6042,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_disable_5_SEA {
             get {
@@ -6042,7 +6052,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_0 {
             get {
@@ -6052,7 +6062,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_0_SEA {
             get {
@@ -6062,7 +6072,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_1 {
             get {
@@ -6072,7 +6082,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_1_SEA {
             get {
@@ -6082,7 +6092,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_2 {
             get {
@@ -6092,7 +6102,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_2_SEA {
             get {
@@ -6102,7 +6112,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_3 {
             get {
@@ -6112,7 +6122,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_3_SEA {
             get {
@@ -6122,7 +6132,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_4 {
             get {
@@ -6132,7 +6142,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_4_SEA {
             get {
@@ -6142,7 +6152,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_5 {
             get {
@@ -6152,7 +6162,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_enable_5_SEA {
             get {
@@ -6162,7 +6172,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_expand {
             get {
@@ -6172,7 +6182,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_expand_SEA {
             get {
@@ -6182,7 +6192,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_expand2 {
             get {
@@ -6192,7 +6202,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_expand2_SEA {
             get {
@@ -6202,7 +6212,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_normal {
             get {
@@ -6212,7 +6222,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_normal_SEA {
             get {
@@ -6222,7 +6232,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_0 {
             get {
@@ -6232,7 +6242,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_1 {
             get {
@@ -6242,7 +6252,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_2 {
             get {
@@ -6252,7 +6262,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_3 {
             get {
@@ -6262,7 +6272,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_4 {
             get {
@@ -6272,7 +6282,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_5 {
             get {
@@ -6282,7 +6292,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_6 {
             get {
@@ -6292,7 +6302,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_7 {
             get {
@@ -6302,7 +6312,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_8 {
             get {
@@ -6312,7 +6322,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_9 {
             get {
@@ -6322,7 +6332,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_minus {
             get {
@@ -6332,7 +6342,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_none {
             get {
@@ -6342,7 +6352,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_percent {
             get {
@@ -6352,7 +6362,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_LookAhead_plus {
             get {
@@ -6362,7 +6372,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Star_Star {
             get {
@@ -6372,7 +6382,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Star_Star0 {
             get {
@@ -6382,7 +6392,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Star_Star1 {
             get {
@@ -6392,7 +6402,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Summary_icon_bdr {
             get {
@@ -6402,7 +6412,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Summary_icon_igpddr {
             get {
@@ -6412,7 +6422,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Summary_icon_mdd {
             get {
@@ -6422,7 +6432,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Summary_icon_pdd {
             get {
@@ -6432,7 +6442,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Summary_incline_0 {
             get {
@@ -6442,7 +6452,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_0 {
             get {
@@ -6452,7 +6462,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_1 {
             get {
@@ -6462,7 +6472,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_2 {
             get {
@@ -6472,7 +6482,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_3 {
             get {
@@ -6482,7 +6492,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_4 {
             get {
@@ -6492,7 +6502,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_5 {
             get {
@@ -6502,7 +6512,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_6 {
             get {
@@ -6512,7 +6522,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_7 {
             get {
@@ -6522,7 +6532,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_8 {
             get {
@@ -6532,7 +6542,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_9 {
             get {
@@ -6542,7 +6552,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_leftParenthesis {
             get {
@@ -6552,7 +6562,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_minus {
             get {
@@ -6562,7 +6572,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_none {
             get {
@@ -6572,7 +6582,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_percent {
             get {
@@ -6582,7 +6592,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_plus {
             get {
@@ -6592,7 +6602,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_rightParenthesis {
             get {
@@ -6602,7 +6612,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame_bottom {
             get {
@@ -6612,7 +6622,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame_cover {
             get {
@@ -6622,7 +6632,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame_dotline {
             get {
@@ -6632,7 +6642,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame_line {
             get {
@@ -6642,7 +6652,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame_top {
             get {
@@ -6652,7 +6662,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame2_c {
             get {
@@ -6662,7 +6672,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame2_cover {
             get {
@@ -6672,7 +6682,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame2_e {
             get {
@@ -6682,7 +6692,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame2_n {
             get {
@@ -6692,7 +6702,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame2_ne {
             get {
@@ -6702,7 +6712,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame2_nw {
             get {
@@ -6712,7 +6722,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame2_s {
             get {
@@ -6722,7 +6732,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame2_se {
             get {
@@ -6732,7 +6742,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame2_sw {
             get {
@@ -6742,7 +6752,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Frame2_w {
             get {
@@ -6752,7 +6762,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_0 {
             get {
@@ -6762,7 +6772,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_1 {
             get {
@@ -6772,7 +6782,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_2 {
             get {
@@ -6782,7 +6792,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_3 {
             get {
@@ -6792,7 +6802,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_4 {
             get {
@@ -6802,7 +6812,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_base {
             get {
@@ -6812,7 +6822,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_canvas_Backgrnd {
             get {
@@ -6822,7 +6832,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_cover {
             get {
@@ -6832,7 +6842,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_new {
             get {
@@ -6842,7 +6852,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_old {
             get {
@@ -6852,7 +6862,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_shade {
             get {
@@ -6862,7 +6872,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_cover {
             get {
@@ -6872,7 +6882,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_dotline_c {
             get {
@@ -6882,7 +6892,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_dotline_e {
             get {
@@ -6892,7 +6902,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_dotline_w {
             get {
@@ -6902,7 +6912,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_iconBackgrnd {
             get {
@@ -6912,7 +6922,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_fixed_btm {
             get {
@@ -6922,7 +6932,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_fixed_line {
             get {
@@ -6932,7 +6942,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_fixed_mid {
             get {
@@ -6942,7 +6952,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_fixed_top {
             get {
@@ -6952,7 +6962,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_c {
             get {
@@ -6962,7 +6972,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_dotline {
             get {
@@ -6972,7 +6982,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_e {
             get {
@@ -6982,7 +6992,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_n {
             get {
@@ -6992,7 +7002,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_ne {
             get {
@@ -7002,7 +7012,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_nw {
             get {
@@ -7012,7 +7022,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_s {
             get {
@@ -7022,7 +7032,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_se {
             get {
@@ -7032,7 +7042,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_sw {
             get {
@@ -7042,7 +7052,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_w {
             get {
@@ -7052,7 +7062,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_ItemIcon_base {
             get {
@@ -7062,7 +7072,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_ItemIcon_base_custom {
             get {
@@ -7072,7 +7082,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_ItemIcon_shade {
             get {
@@ -7082,7 +7092,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_common_box {
             get {
@@ -7092,7 +7102,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_common_category_c {
             get {
@@ -7102,7 +7112,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_common_category_e {
             get {
@@ -7112,7 +7122,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_common_category_w {
             get {
@@ -7122,7 +7132,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_boxLucky_e {
             get {
@@ -7132,7 +7142,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_boxLucky_w {
             get {
@@ -7142,7 +7152,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_btm {
             get {
@@ -7152,7 +7162,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_line {
             get {
@@ -7162,7 +7172,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_mid {
             get {
@@ -7172,7 +7182,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_top {
             get {
@@ -7182,7 +7192,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_equipped {
             get {
@@ -7192,7 +7202,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_0 {
             get {
@@ -7202,7 +7212,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_1 {
             get {
@@ -7212,7 +7222,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_2 {
             get {
@@ -7222,7 +7232,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_3 {
             get {
@@ -7232,7 +7242,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_4 {
             get {
@@ -7242,7 +7252,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_5 {
             get {
@@ -7252,7 +7262,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_6 {
             get {
@@ -7262,7 +7272,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_7 {
             get {
@@ -7272,7 +7282,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_8 {
             get {
@@ -7282,7 +7292,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_9 {
             get {
@@ -7292,7 +7302,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_a {
             get {
@@ -7302,7 +7312,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_b {
             get {
@@ -7312,7 +7322,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_sign {
             get {
@@ -7322,7 +7332,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_0 {
             get {
@@ -7332,7 +7342,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_1 {
             get {
@@ -7342,7 +7352,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_2 {
             get {
@@ -7352,7 +7362,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_3 {
             get {
@@ -7362,7 +7372,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_4 {
             get {
@@ -7372,7 +7382,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_5 {
             get {
@@ -7382,7 +7392,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_6 {
             get {
@@ -7392,7 +7402,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_7 {
             get {
@@ -7402,7 +7412,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_8 {
             get {
@@ -7412,7 +7422,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_9 {
             get {
@@ -7422,7 +7432,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_a {
             get {
@@ -7432,7 +7442,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_b {
             get {
@@ -7442,7 +7452,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_sign {
             get {
@@ -7452,7 +7462,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_additionalPotential_normal {
             get {
@@ -7462,7 +7472,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_bonusStat_normal {
             get {
@@ -7472,7 +7482,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_exceptional_normal {
             get {
@@ -7482,7 +7492,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_detail_epic {
             get {
@@ -7492,7 +7502,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_detail_legendary {
             get {
@@ -7502,7 +7512,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_detail_rare {
             get {
@@ -7512,7 +7522,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_detail_unique {
             get {
@@ -7522,7 +7532,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_normal {
             get {
@@ -7532,7 +7542,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_title_epic {
             get {
@@ -7542,7 +7552,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_title_legendary {
             get {
@@ -7552,7 +7562,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_title_normal {
             get {
@@ -7562,7 +7572,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_title_rare {
             get {
@@ -7572,7 +7582,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_title_unique {
             get {
@@ -7582,7 +7592,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_scroll_normal {
             get {
@@ -7592,7 +7602,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_set_guide {
             get {
@@ -7602,7 +7612,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_set_lucky {
             get {
@@ -7612,7 +7622,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_set_normal {
             get {
@@ -7622,7 +7632,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_soulWeapon_normal {
             get {
@@ -7632,7 +7642,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_starForce_blue {
             get {
@@ -7642,7 +7652,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_starForce_empty {
             get {
@@ -7652,7 +7662,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_starForce_star {
             get {
@@ -7662,7 +7672,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Skill_Frame_dotline_c {
             get {
@@ -7672,7 +7682,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Skill_Frame_dotline_e {
             get {
@@ -7682,7 +7692,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Skill_Frame_dotline_w {
             get {
@@ -7692,7 +7702,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow_img_ToolTip_WorldMap_ArcaneForce {
             get {
@@ -7702,7 +7712,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow_img_ToolTip_WorldMap_AuthenticForce {
             get {
@@ -7712,7 +7722,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow_img_ToolTip_WorldMap_Mob {
             get {
@@ -7722,7 +7732,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow_img_ToolTip_WorldMap_Npc {
             get {
@@ -7732,7 +7742,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow_img_ToolTip_WorldMap_StarForce {
             get {
@@ -7742,7 +7752,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_c {
             get {
@@ -7752,7 +7762,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_e {
             get {
@@ -7762,7 +7772,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_n {
             get {
@@ -7772,7 +7782,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_ne {
             get {
@@ -7782,7 +7792,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_nw {
             get {
@@ -7792,7 +7802,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_nw2 {
             get {
@@ -7802,7 +7812,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_s {
             get {
@@ -7812,7 +7822,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_se {
             get {
@@ -7822,7 +7832,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_sw {
             get {
@@ -7832,7 +7842,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_w {
             get {
@@ -7842,7 +7852,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_c {
             get {
@@ -7852,7 +7862,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_e {
             get {
@@ -7862,7 +7872,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_n {
             get {
@@ -7872,7 +7882,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_ne {
             get {
@@ -7882,7 +7892,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_nw {
             get {
@@ -7892,7 +7902,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_nw2 {
             get {
@@ -7902,7 +7912,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_s {
             get {
@@ -7912,7 +7922,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_se {
             get {
@@ -7922,7 +7932,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_sw {
             get {
@@ -7932,7 +7942,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_w {
             get {
@@ -7942,7 +7952,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_Quest_quest_info_summary_icon_basic {
             get {
@@ -7952,7 +7962,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_Quest_quest_info_summary_icon_prob {
             get {
@@ -7962,7 +7972,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_Quest_quest_info_summary_icon_reward {
             get {
@@ -7972,7 +7982,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_Quest_quest_info_summary_icon_select {
             get {
@@ -7982,7 +7992,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_Skill_skillTypeIcon_ascent {
             get {
@@ -7992,7 +8002,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_Skill_skillTypeIcon_origin {
             get {
@@ -8002,7 +8012,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_1 {
             get {
@@ -8012,7 +8022,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_2 {
             get {
@@ -8022,7 +8032,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_3 {
             get {
@@ -8032,7 +8042,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_4 {
             get {
@@ -8042,7 +8052,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Unit_E12 {
             get {
@@ -8052,7 +8062,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Unit_E16 {
             get {
@@ -8062,7 +8072,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Unit_Q {
             get {
@@ -8072,7 +8082,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Unit_T {
             get {
@@ -8082,7 +8092,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_disabled_base {
             get {
@@ -8092,7 +8102,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_disabled_next {
             get {
@@ -8102,7 +8112,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_disabled_prev {
             get {
@@ -8112,7 +8122,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_enabled_base {
             get {
@@ -8122,7 +8132,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_enabled_next0 {
             get {
@@ -8132,7 +8142,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_enabled_next1 {
             get {
@@ -8142,7 +8152,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_enabled_next2 {
             get {
@@ -8152,7 +8162,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_enabled_prev0 {
             get {
@@ -8162,7 +8172,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_enabled_prev1 {
             get {
@@ -8172,7 +8182,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_enabled_prev2 {
             get {
@@ -8182,7 +8192,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_enabled_thumb0 {
             get {
@@ -8192,7 +8202,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_enabled_thumb1 {
             get {
@@ -8202,7 +8212,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_enabled_thumb2 {
             get {
@@ -8212,7 +8222,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap WorldArchive {
             get {
